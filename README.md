@@ -53,7 +53,7 @@ Mi objetivo es aplicar mis habilidades integrales para crear soluciones innovado
   <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="30" alt="google analytics logo" />
   <img src="https://1000logos.net/wp-content/uploads/2021/10/Meta-Symbol.png" height="30" alt="Meta ads logo" />
   <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-icon.svg" height="30" alt="google ads logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canva_Logo.svg/2560px-Canva_Logo.svg.png" height="30" alt="canva logo" />
+  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" height="30" alt="canva logo" />
     <img src="https://cdn.prod.website-files.com/625817c1528a479afc134612/64a563d2a4c86cf0cdd57f4b_Hotjar.png" height="30" alt="hotjar logo" />
 </div>
 
