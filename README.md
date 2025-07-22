@@ -4,7 +4,8 @@
 
 Hola Mundo 🙋‍♀️ 🌎, soy Nicole, puedes decirme Niky!. 
 
-Ingeniera Comercial apasionada por la tecnología e innovación 🤖 Certificada en Fintech, Blockchain, UX/UI, Product Manager, Marketing Digital y Front-End
+Estudiante de Front End Developor e Ingeniería Comercial
+<!--Ingeniera Comercial apasionada por la tecnología e innovación 🤖 Certificada en Fintech, Blockchain, UX/UI, Product Manager, Marketing Digital y Front-End -->
 
 Si buscas una profesional integral que combine creatividad, estrategia y tecnología, podemos conversar 📩 nicobecs@gmail.com 
 
@@ -69,9 +70,9 @@ Mi objetivo es aplicar mis habilidades integrales para crear soluciones innovado
   <a href="mailto:nicobecs@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/nicolebelen/">
+<!--  <a href="https://www.linkedin.com/in/nicolebelen/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+  </a> -->
   <a href="https://www.behance.net/nicolebelen1">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo" />
   </a>
