@@ -4,7 +4,7 @@
 
 Hola Mundo 🙋‍♀️ 🌎, soy Nicole, puedes decirme Niky!. 
 
-Estudiante de Front End Developor e Ingeniería Comercial
+Estudiante de Front End Dev & Ingeniería Comercial
 <!--Ingeniera Comercial apasionada por la tecnología e innovación 🤖 Certificada en Fintech, Blockchain, UX/UI, Product Manager, Marketing Digital y Front-End -->
 
 Si buscas una profesional integral que combine creatividad, estrategia y tecnología, podemos conversar 📩 nicobecs@gmail.com 
